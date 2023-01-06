@@ -1,0 +1,7 @@
+Hello World
+This is Syscall
+To open the file
+Read contents and
+Display the line count
+Using C program 
+Syscall

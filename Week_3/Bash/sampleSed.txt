@@ -1,0 +1,6 @@
+Hello This is a simple text
+file which can be modified by using sed
+file contents remains the same
+here file contents are taken and replaced  with specified word 
+and given to the ouptut console
+no file change will be made

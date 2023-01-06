@@ -1,0 +1,6 @@
+Ihsan 90 BIO
+Sudeep 99 GEN
+Gautham 97 CS
+Naufal 100 CS
+Praveen 100 BIO
+Sankar 100 BIO

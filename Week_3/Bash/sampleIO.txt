@@ -1,0 +1,4 @@
+Hello This is a sample
+I/O Redirection practice file
+Thank you
+Added an extra line to this file

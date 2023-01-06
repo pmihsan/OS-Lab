@@ -1,0 +1,5 @@
+details2.txt
+details.txt
+dir
+folder
+sample.txt

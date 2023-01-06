@@ -1,0 +1,5 @@
+Hello World
+This is a syscall
+Welcome to OS Syscalls
+Written using C Syscall
+hello using syscall

@@ -1,0 +1,3 @@
+Hello
+Sample file for lstat
+To get the size and file mode

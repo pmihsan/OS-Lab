@@ -1,0 +1,5 @@
+Hello World
+How
+Is 
+This
+After using dup2() fd => 3 and cp_fd => 1

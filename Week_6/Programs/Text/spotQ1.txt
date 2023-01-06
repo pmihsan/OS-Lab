@@ -1,0 +1,10 @@
+File - sample.txt
+
+Hello using fd
+Hello using fd2
+
+File - sample2.txt
+
+Hello written using dup2 by forwarding stdout to fd
+1
+

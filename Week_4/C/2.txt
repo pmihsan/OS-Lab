@@ -1,0 +1,2 @@
+Hello using write syscall
+Welcome to OS Syscalls

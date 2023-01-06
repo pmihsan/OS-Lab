@@ -1,0 +1,2 @@
+Hello written using dup2 by forwarding stdout to fd
+1

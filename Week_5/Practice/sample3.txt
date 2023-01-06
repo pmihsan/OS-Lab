@@ -1,0 +1,6 @@
+Simple Program to 
+read contents
+add info
+Update and display the contents
+w
+hello
